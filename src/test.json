@@ -1,0 +1,481 @@
+{
+    "partitionTypes": {
+        "RATE": {
+            "Values": [
+                "ANYTIME"
+            ],
+            "Name": "RATE"
+        }
+    },
+    "total": 1552.9440219930000,
+    "months": {
+        "12-2022": {
+            "total": 28.0560827925000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 84.947,
+                            "Cost": 28.0560827925000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "01-2023": {
+            "total": 82.0082726190000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 248.467,
+                            "Cost": 82.0082726190000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "02-2023": {
+            "total": 69.6496183110000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 211.023,
+                            "Cost": 69.6496183110000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "03-2023": {
+            "total": 74.8367941230000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 226.739,
+                            "Cost": 74.8367941230000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "04-2023": {
+            "total": 59.4484125690000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 183.686,
+                            "Cost": 59.4484125690000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "05-2023": {
+            "total": 92.6206953945000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 286.183,
+                            "Cost": 92.6206953945000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "06-2023": {
+            "total": 86.3352538230000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 266.762,
+                            "Cost": 86.3352538230000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "07-2023": {
+            "total": 47.5149031875000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 162.375,
+                            "Cost": 47.5149031875000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "08-2023": {
+            "total": 57.2432046900000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 195.620,
+                            "Cost": 57.2432046900000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "09-2023": {
+            "total": 67.4209774245000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 230.401,
+                            "Cost": 67.4209774245000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "10-2023": {
+            "total": 83.1216962520000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 313.432,
+                            "Cost": 83.1216962520000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "11-2023": {
+            "total": 80.1636721830000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 302.278,
+                            "Cost": 80.1636721830000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "12-2023": {
+            "total": 60.2096066460000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 227.036,
+                            "Cost": 60.2096066460000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "01-2024": {
+            "total": 69.4042110825000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 249.761,
+                            "Cost": 69.4042110825000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "02-2024": {
+            "total": 61.8416388450000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 222.546,
+                            "Cost": 61.8416388450000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "03-2024": {
+            "total": 61.2102898050000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 220.274,
+                            "Cost": 61.2102898050000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "04-2024": {
+            "total": 66.8599858080000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 286.288,
+                            "Cost": 66.8599858080000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "05-2024": {
+            "total": 67.8109647600000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 290.360,
+                            "Cost": 67.8109647600000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "06-2024": {
+            "total": 50.9023628190000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 217.959,
+                            "Cost": 50.9023628190000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "07-2024": {
+            "total": 51.3173499510000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 241.877,
+                            "Cost": 51.3173499510000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "08-2024": {
+            "total": 55.2449114070000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 260.389,
+                            "Cost": 55.2449114070000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "09-2024": {
+            "total": 48.5692026120000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 228.924,
+                            "Cost": 48.5692026120000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "10-2024": {
+            "total": 49.7916206970000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 211.822,
+                            "Cost": 49.7916206970000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "11-2024": {
+            "total": 49.4195151765000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 210.239,
+                            "Cost": 49.4195151765000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        "12-2024": {
+            "total": 31.9427790150000,
+            "partitions": {
+                "RATE": {
+                    "totals": {
+                        "ANYTIME": {
+                            "Quality": "A",
+                            "Units": 135.890,
+                            "Cost": 31.9427790150000
+                        }
+                    }
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        }
+    },
+    "fixedCosts": {
+        "details": [
+            {
+                "StartDate": "2022-12-20T00:00:00+00:00",
+                "EndDate": "2022-12-31T00:00:00",
+                "Days": 12,
+                "Rate": 0.4954530000,
+                "Total": 5.9454360000
+            },
+            {
+                "StartDate": "2023-01-01T00:00:00",
+                "EndDate": "2023-03-31T00:00:00",
+                "Days": 90,
+                "Rate": 0.4954530000,
+                "Total": 44.5907700000
+            },
+            {
+                "StartDate": "2023-04-01T00:00:00",
+                "EndDate": "2023-06-30T00:00:00",
+                "Days": 91,
+                "Rate": 0.5560065000,
+                "Total": 50.5965915000
+            },
+            {
+                "StartDate": "2023-07-01T00:00:00",
+                "EndDate": "2023-09-30T00:00:00",
+                "Days": 92,
+                "Rate": 0.5560065000,
+                "Total": 51.1525980000
+            },
+            {
+                "StartDate": "2023-10-01T00:00:00",
+                "EndDate": "2023-12-31T00:00:00",
+                "Days": 92,
+                "Rate": 0.5602380000,
+                "Total": 51.5418960000
+            },
+            {
+                "StartDate": "2024-01-01T00:00:00",
+                "EndDate": "2024-03-31T00:00:00",
+                "Days": 91,
+                "Rate": 0.5600070000,
+                "Total": 50.9606370000
+            },
+            {
+                "StartDate": "2024-04-01T00:00:00",
+                "EndDate": "2024-06-30T00:00:00",
+                "Days": 91,
+                "Rate": 0.6743520000,
+                "Total": 61.3660320000
+            },
+            {
+                "StartDate": "2024-07-01T00:00:00",
+                "EndDate": "2024-09-30T00:00:00",
+                "Days": 92,
+                "Rate": 0.6743520000,
+                "Total": 62.0403840000
+            },
+            {
+                "StartDate": "2024-10-01T00:00:00",
+                "EndDate": "2024-12-19T00:00:00+00:00",
+                "Days": 80,
+                "Rate": 0.6831825000,
+                "Total": 54.6546000000
+            }
+        ],
+        "total": 432.8489445000
+    }
+}
